@@ -1,0 +1,73 @@
+@font-face {
+	font-family: 'Montserrat';
+    src: url(..\font\Montserrat-Regular.ttf);
+}
+html{
+	scroll-behavior: smooth;
+}
+body{
+    font-family: 'Montserrat';
+    color: #fff;
+    font-weight: 400;
+    font-size: 24px;
+    margin: 0 auto;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1170px;
+
+}
+.bg1{
+    background: linear-gradient(167.47deg, #1F2225 0%, #1B1B1B 109.51%);
+}
+header{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    padding-bottom: 90px;
+    padding-top: 74px;
+}
+.header{
+    margin: 0 auto;
+	display: flex;
+	align-items: center;
+    text-align: center;
+}
+.header_link{
+	color: #fff;
+	text-decoration: none;
+}
+.header_list{
+    margin: 0 auto;
+	display: flex;
+    gap: 32px;
+	list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+}
+.header_list :hover {
+	font-weight: 500;
+	transition: font-weight 0.3s linear;	
+}
+.image{
+    margin: 0 auto;
+    display: block;
+    align-items: center;
+    padding-bottom: 76px;
+}
+.zagalovok{
+    font-weight: 600;
+    font-size: 32px;
+    text-align: center;
+    padding-bottom: 40px
+}
+.watching{
+    margin: 0 auto;
+    display: block;
+    align-items: center;
+    padding-bottom: 87px
+}
+.text{
+    line-height: 180%;
+    padding-bottom: 80px
+}

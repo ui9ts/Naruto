@@ -1,0 +1,171 @@
+@media only screen and (max-width: 992px) {
+    .container{
+        width: 90%;
+    }
+    .text{
+        width: 900px;
+        margin: 0 auto;
+    }
+    .image{
+        width: 900px;
+    }
+}
+@media only screen and (max-width: 937px) {
+    .container{
+        width: 80%;
+    }
+    .text{
+        width: 800px;
+        margin: 0 auto;
+    }
+    .image{
+        width: 800px;
+    }
+}
+@media only screen and (max-width: 860px) {
+    .container{
+        width: 80%;
+    }
+    .text{
+        width: 700px;
+        margin: 0 auto;
+    }
+    .image{
+        width: 700px;
+    }
+    .watching{
+        width: 90%;
+    }
+}
+@media only screen and (max-width: 772px) {
+    .container{
+        width: 80%;
+    }
+    .text{
+        width: 600px;
+        margin: 0 auto;
+    }
+    .image{
+        width: 600px;
+    }
+    .header_item{
+        font-size: 14px;
+    }
+    .watching{
+        width: 90%;
+    }
+}
+@media only screen and (max-width: 660px) {
+    .container{
+        width: 80%;
+    }
+    .text{
+        width: 500px;
+        margin: 0 auto;
+    }
+    .image{
+        width: 500px;
+    }
+    .header_item{
+        font-size: 14px;
+    }
+    .watching{
+        width: 90%;
+    }
+}
+@media only screen and (max-width: 540px) {
+    .container{
+        width: 75%;
+    }
+    .text{
+        width: 400px;
+        margin: 0 auto;
+    }
+    .image{
+        width: 400px;
+    }
+    .header_item{
+        font-size: 12px;
+    }
+    .header_list{
+        width: 300px;
+    }
+    .watching{
+        width: 90%;
+    }
+}
+@media only screen and (max-width: 414px) {
+    .container{
+        width: 80%;
+    }
+    .text{
+        width: 300px;
+        font-size: 18px;
+        margin: 0 auto;
+    }
+    .image{
+        width: 300px;
+    }
+    .header_item{
+        font-size: 10px;
+    }
+    .header_list{
+        padding: 0;
+    }
+    .watching{
+        width: 90%;
+    }
+}
+@media only screen and (max-width: 375px) {
+    .container{
+        width: 80%;
+    }
+    .text{
+        width: 299px;
+        font-size: 18px;
+        margin: 0 auto;
+    }
+    .image{
+        width: 299px;
+    }
+    .header_item{
+        font-size: 10px;
+    }
+    .header_list{
+        padding: 0;
+    }
+    .watching{
+        width: 90%;
+    }
+}
+@media only screen and (max-width: 280px) {
+    .container{
+        width: 100%;
+    }
+    .text{
+        width: 250px;
+        font-size: 18px;
+        margin: 0 auto;
+    }
+    .image{
+        width: 250px;
+    }
+    .header_item{
+        font-size: 10px;
+        padding-bottom: 5px;
+        width: 100px;
+        
+    }
+    .header{
+        width: 100px;
+    }
+    .header_list{
+        display: block;
+        width: 100px;
+        margin: 0 auto;
+    }
+    .watching{
+        width: 90%;
+    }
+}
+
